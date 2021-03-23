@@ -1,0 +1,17 @@
+Determine se cada uma das seguintes sentenças é verdadeira ou falsa. Se falsa, explique por quê.
+
+a) Todos os métodos em uma classe abstract devem ser declarados como métodos abstract.
+
+Resposta: Falsa. É possível ter métodos com implementação e métodos abstract numa classe abstrata. 
+
+b) Não é permitido invocar um método “somente de subclasse” por meio de uma variável de subclasse.
+
+Resposta: Falsa. Não é possível invocar um método "somente de subclasse" de uma variável de superclasse.
+
+c) Se uma superclasse declarar um método como abstract, uma subclasse deverá implementar esse método.
+
+Resposta: Falsa. Apenas subclasses concretas devem implementar o método.
+
+d) Um objeto de uma classe que implementa uma interface pode ser pensado como um objeto desse tipo de interface.
+
+Resposta: Verdadeira.
