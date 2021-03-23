@@ -1,0 +1,5 @@
+Preencha os espaços em branco em cada uma das seguintes instruções:
+
+a) Uma interface pode declarar 'métodos default', isto é, métodos public com implementações concretas que especificam como uma operação deve ser realizada.
+b) Interfaces podem incluir métodos auxiliares 'static'.
+c) Qualquer interface que contém um único método é conhecida como 'interface funcional'.
