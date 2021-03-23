@@ -1,0 +1,11 @@
+Preencha as lacunas em cada uma das seguintes afirmações:
+ 
+a) Se uma classe contiver pelo menos um método abstrato, ela será uma classe 'abstrata'.
+ 
+b) As classes a partir das quais os objetos podem ser instanciados são chamadas 'concretas'.
+ 
+c) 'Polimorfismo' envolve a utilização de uma variável de superclasse para invocar métodos nos objetos de superclasse e de subclasse, permitindo que você “programe no geral”.
+ 
+d) Os métodos que não são métodos de interface e que não fornecem implementações devem ser declarados com a palavra-chave 'abstract'.
+ 
+e) Fazer uma coerção em uma referência armazenada em uma variável da superclasse para um tipo de subclasse é chamado 'downcasting'.
