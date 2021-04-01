@@ -1,0 +1,12 @@
+Compare e contraste classes abstratas e interfaces. 
+Por que você utilizaria uma classe abstrata? 
+Por que você utilizaria uma interface?
+
+Resposta: A interface funciona como um contrato, no qual se definem métodos
+que devem ser adotados pelas classes que a implementarem. Difirentemente duma classe abstrata,
+uma interface, não possui código em seu conteúdo (originalmente). Todos os seus métodos são, implicitamente,
+públicos e abstratos, bem como seus atributos, os quais também são constantes.
+
+A classe abstrata, por sua vez, funciona, principalmente, como uma "ferramenta" para a diminuição 
+da repetição de código. Ela pode conter métodos abstratos (deve conter pelo menos um) e métodos concretos,
+podendo utilizar quaisquer modificadores de acesso. Outras classes podem herdar suas características.
