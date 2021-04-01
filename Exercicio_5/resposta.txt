@@ -1,0 +1,3 @@
+O que é uma interface funcional?
+
+Resposta: Uma interface funcional é uma interface que possui um único método.
