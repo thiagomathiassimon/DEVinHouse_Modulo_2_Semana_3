@@ -1,0 +1,5 @@
+Explique como métodos default permitem adicionar novos métodos a uma interface existente sem violar as classes que implementam a interface original.
+
+Resposta: Porque, quando da utilização dum método default numa interface, é necessária
+a implementação de código interno do método, tornando-o concreto. Assim, as classes que implementam a 
+interface não prescisam sobrescrever o método, outrossim o método concreto já possui um funcioanmento padrão.
