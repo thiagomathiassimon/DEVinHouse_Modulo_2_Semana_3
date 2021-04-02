@@ -1,0 +1,6 @@
+Posso chamar um método abstrato de dentro de um outro método da própria classe abstrata? 
+Podemos invocar o getTipo (que agora é abstrato) dentro do método “recuperaDadosParaImpressao”?
+
+Resposta: Sim, podemos. Outrossim, mesmo sendo, na classe abstrata, um método abstrato, e, por isso, sem código,
+sua sobrescrita é obrigatória para todas as classes que herdam dessa, o que garante que o método terá conteúdo
+quando for chamado.
