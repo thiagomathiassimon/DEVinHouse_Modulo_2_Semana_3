@@ -1,0 +1,4 @@
+Por que é útil ser capaz de adicionar métodos static a interfaces?
+
+Resposta: Porque a criação de métodos estáticos na própria interface elimina a necessidade
+de criarem-se classes genéricas unicamente para poder-se implementar um método.
